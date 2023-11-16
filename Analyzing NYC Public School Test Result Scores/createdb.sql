@@ -9,3 +9,9 @@ CREATE TABLE schools(
   average_writing INT, 
   percent_tested FLOAT
 ); 
+
+\copy schools FROM 'schools_modified.csv' DELIMITER ',' CSV HEADER; 
+
+
+
+
