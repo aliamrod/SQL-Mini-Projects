@@ -5,7 +5,7 @@
    * Count unique values with ```COUNT (DISTINCT)```.
    * Combine ```SUM()``` and ```COUNT()``` to calculate each row.
   
-     View my complete project here.
+     View my complete project [here]([url](https://github.com/aliamrod/SQL-Mini-Projects/tree/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)).
      
 **2. Analyzing American Baby Name Trends**
    * Use ```CASE``` to add a new column based on certain conditions.
